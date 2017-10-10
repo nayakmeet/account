@@ -1,0 +1,39 @@
+
+
+h1{
+	
+	height:50px;
+	border:1px solid white;
+	text-align:center;
+	background-color:orange;
+	font-size:20px;
+	color:white;
+}
+
+a{
+	height:50px;
+	border:1px solid black;
+	text-align:center;
+	background-color:purple;
+	font-size:20px;
+	padding : 10px;
+	color:white;
+	text-decoration :none;
+	
+}
+
+body{
+	margin-left : 75px;
+	margin-right : 75px;
+	background-color:yellow;
+	color:brown;	
+	font-size:20px;
+}
+
+.btn
+{
+	align:center;
+	background:black;
+	color:white;
+	
+}
